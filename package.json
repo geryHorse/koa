@@ -1,0 +1,24 @@
+{
+    "name": "koa2-test",
+    "version": "1.0.0",
+    "description": "a koa 2 test",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [
+        "koa2",
+        "async",
+        "url"
+    ],
+    "author": "sy",
+    "license": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/geryHorse/koa.git"
+    },
+    "dependencies": {
+        "koa": "2.0.0",
+        "koa-router": "7.2.0"
+    }
+}
